@@ -1,0 +1,20 @@
+{"name": "allnear-backend",
+  "version": "1.0.0",
+  "description": "Backend for Allnear application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.4",
+    "jsonwebtoken": "^8.5.1",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "cors": "^2.8.5",
+    "helmet": "^4.6.0",
+    "express-validator": "^6.12.2"
+  },
+  "author": "rmxzzx-ux",
+  "license": "ISC"
+}
